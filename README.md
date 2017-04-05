@@ -1,3 +1,8 @@
+The purpose of this project was to understand how to use various classifiers for classification of a real world problem. The first part of the project focused on lemmatization, stemming, and removal of stopwords to produce both a term-frequency (TF) feature matrix and a term frequency-inverse document frequency (TF-IDF) feature matrix.
+
+Using scikit learn, various classifiers were tested for highest classification accuracy.
+
+
 Additional:
     
     A lot of junk data exists in each file that will not be useful in training and predicting a label.
